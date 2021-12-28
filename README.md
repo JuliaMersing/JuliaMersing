@@ -50,8 +50,6 @@ Now I'm ready to join a new team and get the ball rolling!!
 
 #### I'm currently:
 - Learning BackEnd
-- Working on my portfolio
-- Improving my JavaScript and React skills
 
 ### Let's get in touch:
 
