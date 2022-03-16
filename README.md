@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-My name is Julia and I am a junior Front-End developer.
+My name is Julia and I am a junior Full Stack developer.
 
 Curious and always willing to learn, I am starting this new professional chapter of my proffesional life and I am very keen to develop myself further.
 
 I've always work in multi-lingual and multi-cultural environments, where I have been able to develop and demonstrate transferable skills as well as to maintain the highest standards in communication and reporting.  
 
-Now I'm ready to join a new team and get the ball rolling!!
 
 #### I've experience working with: 
 
@@ -49,7 +48,8 @@ Now I'm ready to join a new team and get the ball rolling!!
 <br>
 
 #### I'm currently:
-- Learning BackEnd
+- Learning Java
+- Working on React and Redux
 
 ### Let's get in touch:
 
