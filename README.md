@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" " src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/200.gif?cid=6104955e1d8467678cb67b872ff692de5ed66d02d9c5b10b&rid=200.gif&ct=g" alt="cover" />
+</div>
+
 ### Hi there 👋
 
 My name is Julia and I am a junior Full Stack developer.
