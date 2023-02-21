@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My name is Julia and I am a junior Full Stack developer.
+My name is Julia and I am a junior front-end developer.
 
 Curious and always willing to learn, I am starting this new professional chapter of my proffesional life and I am very keen to develop myself further.
 
