@@ -37,8 +37,9 @@ I've always work in multi-lingual and multi-cultural environments, where I have 
 
 
 #### I'm currently:
-- Learning Java
-- Working on React and Redux
+- Working on React, Redux and Typescript
+- Playwright 
+- Testing library
 
 ### Let's get in touch:
 
