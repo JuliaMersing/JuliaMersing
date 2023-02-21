@@ -36,8 +36,10 @@ I've always work in multi-lingual and multi-cultural environments, where I have 
 <br>
 
 
-#### I'm currently:
-- Working on React, Redux and Typescript
+#### Working currently with:
+- React 
+- Redux Toolkit
+- Typescript
 - Playwright 
 - Testing library
 
