@@ -1,47 +1,16 @@
-<div align="center">
-<img width="100%" " src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/200.gif?cid=6104955e1d8467678cb67b872ff692de5ed66d02d9c5b10b&rid=200.gif&ct=g" alt="cover" />
-</div>
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=5013&color=342AB8&center=true&lines=Hi+there+👋;I'm+Julia+🤝.;a+Frontend+Developer+⚡.">
+  </a></h2></a>
 
-### Hi there 👋
+#### About me: 
 
-My name is Julia and I am a junior front-end developer.
+- 🌱 I’m currently working with **React, Redux Toolkit, Typescript and Next.js**
 
-Curious and always willing to learn, I am starting this new professional chapter of my proffesional life and I am very keen to develop myself further.
+- 📝 Testing with **Testing Library and Playwright**
 
-I've always work in multi-lingual and multi-cultural environments, where I have been able to develop and demonstrate transferable skills as well as to maintain the highest standards in communication and reporting.  
+- 🤝 I’m studying **Node.js**
 
+- 💬 I studied law, lived in 5 different countries and after 8 years working in business development, I changed my career to web developer. Always willing to learn and collaborate in the empowerment of women in the IT sector. 
 
-#### I've experience working with: 
-
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-
-<img align="left" alt="Gulp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
-
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<br>
-<br>
-
-
-#### Working currently with:
-- React 
-- Redux Toolkit
-- Typescript
-- Playwright 
-- Testing library
 
 ### Let's get in touch:
 
